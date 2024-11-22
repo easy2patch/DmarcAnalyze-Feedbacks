@@ -1,4 +1,4 @@
-Issue-Only Repository
+Issue-Only Repository Deneme
 This repository is intended solely for tracking issues and collecting feedback. You can use the Issues tab to:
 
 Report bugs
